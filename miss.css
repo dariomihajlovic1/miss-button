@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    background-image: url('misshearts.png');
+}
+.citat {
+    display: block;
+    color: white;
+    background-color: black;
+    padding-top: 100px;
+    scale: 2;
+}
+
+.button-off {
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
+.button-on {
+    padding-left: 100px;
+    padding-top: 200px;
+}

@@ -2,20 +2,38 @@ body {
     background-color: black;
     background-image: url('misshearts.png');
 }
-.citat {
+.citat1 {
     display: block;
     color: white;
     background-color: black;
     padding-top: 100px;
+    padding-left: 150px;
+    scale: 2;
+}
+
+.citat2 {
+    display: block;
+    color: white;
+    background-color: black;
+    padding-top: 100px;
+    padding-left: 150px;
     scale: 2;
 }
 
 .button-off {
-    padding-left: 100px;
-    padding-top: 200px;
+    padding-left: 250px;
+    padding-top: 300px;
+}
+.button-off:hover {
+    padding-top: 350px;
 }
 
 .button-on {
-    padding-left: 100px;
-    padding-top: 200px;
+    padding-left: 250px;
+    padding-top: 350px;
+}
+
+.lokacija {
+    padding: 50px;
+    width: 120%;
 }
